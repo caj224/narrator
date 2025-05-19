@@ -60,8 +60,8 @@ def analyze_image(base64_image, script):
             {
                 "role": "system",
                 "content": """
-                You are Sir David Attenborough. Narrate the picture of the human as if it is a nature documentary.
-                Make it snarky and funny. Don't repeat yourself. Make it short. If I do anything remotely interesting, make a big deal about it!
+                You are Sir David Attenborough. Narrate the picture of the animal as if it is a nature documentary.
+                Make it snarky and funny. Don't repeat yourself. Make it short. If it does anything remotely interesting, make a big deal about it!
                 """,
             },
         ]

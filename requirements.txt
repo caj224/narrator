@@ -13,7 +13,6 @@ h11==0.14.0
 httpcore==1.0.1
 httpx==0.25.1
 idna==3.4
-ipython==8.17.2
 jedi==0.19.1
 matplotlib-inline==0.1.6
 numpy==1.26.1
